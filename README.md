@@ -34,4 +34,4 @@ This repository contains an OpenGL/GLUT-based game or assignment developed in C+
 
 ### Option B — Windows (Command Line – MinGW)
 ```bash
-g++ main.cpp -o RoadRash.exe -lopengl32 -lglu32 -lfreeglut
+g++ main.cpp -o Assignment1_PRLX.exe -lopengl32 -lglu32 -lfreeglut

@@ -1,4 +1,4 @@
-# RoadRash (OpenGL / GLUT)
+# Assignment-1 Parallax
 
 > **Course/Assignment:** Assignment 1 Parallax  
 > **Author:** Ritvik  
